@@ -1,5 +1,5 @@
 import React from "react"
-import hero from "../images/hero.svg"
+
 
 export default function Main(){
     return (
@@ -7,7 +7,7 @@ export default function Main(){
         <main>
 
             <div className="hero">
-                <img src={hero} alt="logo" className="hero--logo"/>
+                <img src={process.env.PUBLIC_URL+"/images/hero.png"} alt="logo" className="hero--logo"/>
             </div>
 
             <h1 className="hero--title">Online Experiences</h1>

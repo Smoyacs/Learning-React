@@ -37,6 +37,8 @@ main{
 
 .card{
     margin-bottom: 5%;
+    width: 100%;
+    min-width: 150px;
 }
 
 .card>img{
@@ -58,5 +60,7 @@ main{
 
 .carrusel{
     display: flex;
-    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
 }

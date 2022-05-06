@@ -50,6 +50,72 @@ export default function App() {
             title="Bike Tour"
             price={100}
           />
+
+          <Card 
+            img={bike}
+            rating="4.5"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+          <Card 
+            img={wedding}
+            rating="4.5"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+          <Card 
+            img={katie_zaferes}
+            rating="5.0"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+          <Card 
+            img={bike}
+            rating="4.5"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+
+          <Card 
+            img={bike}
+            rating="4.5"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+          <Card 
+            img={wedding}
+            rating="4.5"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+          <Card 
+            img={katie_zaferes}
+            rating="5.0"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
+          <Card 
+            img={bike}
+            rating="4.5"
+            reviewCount="3.0"
+            country="USA"
+            title="Bike Tour"
+            price={100}
+          />
         </div>
 
       
